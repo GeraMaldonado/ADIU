@@ -1,2 +1,2 @@
 # ADIU
-Tarea de Análisis y Diseño de Interfaces de Usuario
+____Prueba del uso de git y github en terminal_
